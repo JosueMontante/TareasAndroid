@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sesion5</string>
+
+    <!-- Strings related to login -->
+    <string name="main_activity_hint_nombre">Ingrese su Nombre</string>
+    <string name="main_activity_hint_telefono">Ingrese su teléfono</string>
+    <string name="main_activity_text_escolaridad">Escolaridad</string>
+    <string name="main_activity_text_limpiar">Limpiar</string>
+    <string name="main_activity_practica">Practica deporte</string>
+    <string name="main_activity_radio_m">Masculino</string>
+    <string name="main_activity_radio_f">Femenino</string>
+    <string-array name="main_activity_spinner">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+    <string name="main_activity_text_genero">Género</string>
+    <string name="main_activity_text_libro">Libro Favorito</string>
+    <string-array name="libritos">
+        <item>Chaos Walk: The ask and the answer</item>
+        <item>Chaos Walk: The knife of never letting go</item>
+        <item>Chaos Walk: Monsters of men</item>
+        <item>The bible</item>
+        <item>The name of the wind</item>
+        <item>The wise man fear</item>
+        <item>The Slow Regard of Silent Things</item>
+        <item>Doors of Stone</item>
+    </string-array>
+</resources>
